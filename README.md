@@ -1,5 +1,6 @@
 # zaydam1000000.github.io
-My personal website at https://zaydam1000000.github.io  
+All of the open-source projects I have ever done, with the source code easily available, and compiled versions available by opening the UI of the website.  
+https://zaydam1000000.github.io  
 Made from template by HTML5UP
 https://html5up.net/phantom  
 
